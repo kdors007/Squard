@@ -13,3 +13,17 @@
 //= require rails-ujs
 //= require turbolinks
 //= require_tree .
+//= require jquery
+//= require jquery_ujs
+
+// $( document ).ready(function() {
+// 	$.ajax({
+// 		type: 'GET',
+// 		url: "http://www.espn.com/nfl/scoreboard"
+// 	})
+
+//  //  	.done(function( html ) {
+//  //  		console.log(window.espn.scoreboardData);
+//  //    	$( "#results" ).append( html );
+// 	// });
+// });
